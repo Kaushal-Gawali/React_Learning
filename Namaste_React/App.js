@@ -1,4 +1,5 @@
-
+import React from "react";
+import ReactDOM from "react-dom/client";
 // This is very complicated so to avoid this we use JSX
 
 const parent = React.createElement("div", { id: "parent" },
