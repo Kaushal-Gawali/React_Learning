@@ -685,7 +685,7 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
 }, /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     id: "child"
 }, [
-    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I am in h1"),
+    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Namaste React bhaii"),
     /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "I am in h2")
 ] // creating aray of chindren
 ));

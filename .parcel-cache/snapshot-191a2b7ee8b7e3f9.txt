@@ -1,11 +1,11 @@
-3606
+3608
 82C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\cjs\_construct.cjs133962130058766273 0
 73C:\Users\admin\Desktop\react learning\node_modules\commander\package.json133962130067259580 0
-48C:\Users\admin\Desktop\react learning\.gitignore133962144584095555 0
+48C:\Users\admin\Desktop\react learning\.gitignore133962628933292793 0
 88C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\css-all.js133962130124834411 0
 93C:\Users\admin\Desktop\react learning\node_modules\node-gyp-build-optional-packages\README.md133962130014247712 0
 109C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133962130189745687 0
-50C:\Users\admin\Desktop\react learning\package.json133962593339191365 0
+50C:\Users\admin\Desktop\react learning\package.json133962646347915111 0
 106C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133962130155749539 0
 74C:\Users\admin\Desktop\react learning\node_modules\semver\classes\range.js133962130057299832 0
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\CZ.js133962130155871290 0
@@ -20,8 +20,14 @@
 82C:\Users\admin\Desktop\react learning\node_modules\@parcel\transformer-raw\LICENSE133962130039095035 0
 60C:\Users\admin\Desktop\react learning\node_modules\is-number133962130008608089 1
 97C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\devicepixelratio.js133962130157157788 0
+68C:\Users\admin\Desktop\react learning\node_modules\@msgpackr-extract133962593339091645 1
+75C:\Users\admin\Desktop\react learning\node_modules\weak-lru-cache\README.md133962130016436690 0
+104C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133962130156190720 0
+79C:\Users\admin\Desktop\react learning\node_modules\@parcel\cache\lib\types.d.ts133962130052580555 0
+42C:\Users\admin\Desktop\react learning\dist133962620798882867 1
+97C:\Users\admin\Desktop\react learning\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133962130077293928 0
 100C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\cjs\_is_native_reflect_construct.cjs133962130087371256 0
-51C:\Users\admin\Desktop\react learning\Namaste_React133962159458435800 1
+51C:\Users\admin\Desktop\react learning\Namaste_React133962641733962956 1
 104C:\Users\admin\Desktop\react learning\node_modules\lmdb\node_modules\node-addon-api\package-support.json133962130094870474 0
 78C:\Users\admin\Desktop\react learning\node_modules\react-dom\server.browser.js133962593336695073 0
 96C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\css-caret-color.js133962130126725330 0
@@ -77,7 +83,6 @@
 96C:\Users\admin\Desktop\react learning\node_modules\scheduler\cjs\scheduler.native.development.js133962593329836401 0
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\CI.js133962130116071730 0
 60C:\Users\admin\Desktop\react learning\node_modules\@mischnic133962129985596984 1
-68C:\Users\admin\Desktop\react learning\node_modules\@msgpackr-extract133962593339091645 1
 115C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json133962130152527925 0
 81C:\Users\admin\Desktop\react learning\node_modules\update-browserslist-db\LICENSE133962129999348042 0
 91C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\hashchange.js133962130181072076 0
@@ -281,7 +286,7 @@
 85C:\Users\admin\Desktop\react learning\node_modules\@parcel\core\lib\resolveOptions.js133962130137396507 0
 86C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\mpeg4.js133962130194123214 0
 87C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\src\_async_iterator.mjs133962130170522090 0
-87C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.61d92a97.css.map133962589991882220 0
+87C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.61d92a97.css.map133962641738790033 0
 97C:\Users\admin\Desktop\react learning\node_modules\@parcel\error-overlay\src\components\Footer.js133962130016087432 0
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\FO.js133962130170913472 0
 60C:\Users\admin\Desktop\react learning\node_modules\term-size133962130022211037 1
@@ -335,8 +340,6 @@
 86C:\Users\admin\Desktop\react learning\node_modules\@parcel\utils\src\getModuleParts.js133962130096352533 0
 78C:\Users\admin\Desktop\react learning\node_modules\weak-lru-cache\package.json133962130014973479 0
 109C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose\package.json133962130156673515 0
-75C:\Users\admin\Desktop\react learning\node_modules\weak-lru-cache\README.md133962130016436690 0
-104C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133962130156190720 0
 85C:\Users\admin\Desktop\react learning\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133962130105889732 0
 81C:\Users\admin\Desktop\react learning\node_modules\@lmdb\lmdb-win32-x64\README.md133962130013957042 0
 68C:\Users\admin\Desktop\react learning\node_modules\scheduler\LICENSE133962593329108338 0
@@ -563,7 +566,7 @@
 78C:\Users\admin\Desktop\react learning\node_modules\type-fest\source\entry.d.ts133962130022020695 0
 95C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_define_enumerable_properties133962130153066611 1
 79C:\Users\admin\Desktop\react learning\node_modules\type-fest\source\except.d.ts133962130023031446 0
-83C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.61d92a97.css133962589991802441 0
+83C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.61d92a97.css133962641737234216 0
 64C:\Users\admin\Desktop\react learning\node_modules\react\LICENSE133962583053899614 0
 91C:\Users\admin\Desktop\react learning\node_modules\type-fest\source\fixed-length-array.d.ts133962130025394769 0
 97C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_wrap_native_super\package.json133962130167702086 0
@@ -1086,9 +1089,9 @@
 77C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features133962130220562931 1
 80C:\Users\admin\Desktop\react learning\node_modules\react\cjs\react.production.js133962583054995187 0
 93C:\Users\admin\Desktop\react learning\node_modules\react\cjs\react.react-server.production.js133962583055143218 0
-69C:\Users\admin\Desktop\react learning\node_modules\msgpackr\pack.d.ts133962130094946467 0
 101C:\Users\admin\Desktop\react learning\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133962130135617523 0
 75C:\Users\admin\Desktop\react learning\node_modules\postcss-value-parser\lib133962130014577464 1
+69C:\Users\admin\Desktop\react learning\node_modules\msgpackr\pack.d.ts133962130094946467 0
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\JO.js133962130189280312 0
 75C:\Users\admin\Desktop\react learning\node_modules\ordered-binary\README.md133962130021911118 0
 95C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\css-page-break.js133962130145046504 0
@@ -1320,7 +1323,6 @@
 103C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\esm\_class_static_private_method_get.js133962130125872898 0
 69C:\Users\admin\Desktop\react learning\node_modules\msgpackr\README.md133962130092544366 0
 69C:\Users\admin\Desktop\react learning\node_modules\msgpackr\stream.js133962130047066644 0
-86C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.d3ef9a84.js.map133962159949594990 0
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\GG.js133962130176303857 0
 105C:\Users\admin\Desktop\react learning\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133962130095783238 0
 69C:\Users\admin\Desktop\react learning\node_modules\msgpackr\struct.js133962130047855383 0
@@ -1364,8 +1366,8 @@
 99C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133962130157611958 0
 67C:\Users\admin\Desktop\react learning\node_modules\lmdb\binding.gyp133962130116328835 0
 60C:\Users\admin\Desktop\react learning\node_modules\lmdb\dict133962130130292893 1
-92C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_create_class\package.json133962130152358706 0
 81C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\src\_inherits.mjs133962130178541330 0
+92C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_create_class\package.json133962130152358706 0
 76C:\Users\admin\Desktop\react learning\node_modules\@parcel\fs\lib\types.d.ts133962130095909524 0
 60C:\Users\admin\Desktop\react learning\node_modules\lmdb\dist133962130126622909 1
 98C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\custom-elementsv1.js133962130155231598 0
@@ -1421,6 +1423,7 @@
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\ES.js133962130164107738 0
 87C:\Users\admin\Desktop\react learning\node_modules\@swc\helpers\_\_extends\package.json133962130154040346 0
 69C:\Users\admin\Desktop\react learning\node_modules\lmdb\src\windows.c133962130105074951 0
+53C:\Users\admin\Desktop\react learning\dist\index.html133962620779494737 0
 70C:\Users\admin\Desktop\react learning\node_modules\lmdb\src\writer.cpp133962130114864803 0
 83C:\Users\admin\Desktop\react learning\node_modules\lmdb\node_modules\node-addon-api133962130096066840 1
 82C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\regions\PT.js133962130198706150 0
@@ -1433,7 +1436,6 @@
 94C:\Users\admin\Desktop\react learning\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133962130085222999 0
 96C:\Users\admin\Desktop\react learning\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133962130071413729 0
 103C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\page-transition-events.js133962130197110726 0
-97C:\Users\admin\Desktop\react learning\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133962130077293928 0
 73C:\Users\admin\Desktop\react learning\node_modules\@parcel\diagnostic\lib133962130084071965 1
 96C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\document-policy.js133962130158533408 0
 96C:\Users\admin\Desktop\react learning\node_modules\caniuse-lite\data\features\form-validation.js133962130174381854 0
@@ -2867,7 +2869,7 @@
 76C:\Users\admin\Desktop\react learning\node_modules\@swc\counter\CHANGELOG.md133962130007614959 0
 72C:\Users\admin\Desktop\react learning\node_modules\@swc\counter\index.js133962130006263551 0
 76C:\Users\admin\Desktop\react learning\node_modules\@swc\counter\package.json133962130010423627 0
-82C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.88009f96.js133962589991822367 0
+82C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.88009f96.js133962641737274096 0
 88C:\Users\admin\Desktop\react learning\node_modules\@swc\core-win32-x64-msvc\package.json133962130006389547 0
 85C:\Users\admin\Desktop\react learning\node_modules\@swc\core-win32-x64-msvc\README.md133962130007600938 0
 73C:\Users\admin\Desktop\react learning\node_modules\@swc\core\binding.d.ts133962130023964897 0
@@ -3196,7 +3198,7 @@
 89C:\Users\admin\Desktop\react learning\node_modules\@parcel\runtime-service-worker\LICENSE133962130046911934 0
 85C:\Users\admin\Desktop\react learning\node_modules\@parcel\runtime-service-worker\src133962130048079549 1
 109C:\Users\admin\Desktop\react learning\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133962130047631706 0
-56C:\Users\admin\Desktop\react learning\Namaste_React\dist133962589991974717 1
+56C:\Users\admin\Desktop\react learning\Namaste_React\dist133962641739139093 1
 96C:\Users\admin\Desktop\react learning\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133962130133370495 0
 78C:\Users\admin\Desktop\react learning\node_modules\@parcel\runtime-rsc\LICENSE133962130045303192 0
 111C:\Users\admin\Desktop\react learning\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\.parcelrc133962130091778022 0
@@ -3563,10 +3565,10 @@
 77C:\Users\admin\Desktop\react learning\node_modules\@parcel\cache\src\index.js133962130047175642 0
 79C:\Users\admin\Desktop\react learning\node_modules\@parcel\cache\lib\FSCache.js133962130035168235 0
 88C:\Users\admin\Desktop\react learning\node_modules\@parcel\cache\lib\IDBCache.browser.js133962130038533525 0
-79C:\Users\admin\Desktop\react learning\node_modules\@parcel\cache\lib\types.d.ts133962130052580555 0
 82C:\Users\admin\Desktop\react learning\node_modules\@parcel\bundler-default\LICENSE133962130060831951 0
 87C:\Users\admin\Desktop\react learning\node_modules\@parcel\bundler-default\package.json133962130069775888 0
 96C:\Users\admin\Desktop\react learning\node_modules\@parcel\bundler-default\lib\DefaultBundler.js133962130065838722 0
+72C:\Users\admin\Desktop\react learning\dist\Namaste_React.dbc19337.js.map133962620791223420 0
 112C:\Users\admin\Desktop\react learning\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi115.node133962130013664580 0
 108C:\Users\admin\Desktop\react learning\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133962130008697922 0
 105C:\Users\admin\Desktop\react learning\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133962130010077696 0
@@ -3596,12 +3598,12 @@
 97C:\Users\admin\Desktop\react learning\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133962130221585352 0
 92C:\Users\admin\Desktop\react learning\node_modules\.bin\node-gyp-build-optional-packages.ps1133962130221605290 0
 66C:\Users\admin\Desktop\react learning\node_modules\.bin\semver.cmd133962130221615270 0
-58C:\Users\admin\Desktop\react learning\Namaste_React\App.js133962586869525892 0
-61C:\Users\admin\Desktop\react learning\Namaste_React\index.css133961995703667663 0
+58C:\Users\admin\Desktop\react learning\Namaste_React\App.js133962603365366820 0
+61C:\Users\admin\Desktop\react learning\Namaste_React\index.css133962595041519854 0
 62C:\Users\admin\Desktop\react learning\Namaste_React\index.html133962589996364150 0
-61C:\Users\admin\Desktop\react learning\Namaste_React\README.md133962092754694206 0
-67C:\Users\admin\Desktop\react learning\Namaste_React\dist\index.html133962589989560133 0
-86C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.88009f96.js.map133962589991964789 0
-82C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.bd6bc3be.js133962159949274880 0
-86C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.bd6bc3be.js.map133962159949484439 0
-82C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.d3ef9a84.js133962159949344714 0
+61C:\Users\admin\Desktop\react learning\Namaste_React\README.md133962608583168722 0
+67C:\Users\admin\Desktop\react learning\Namaste_React\dist\index.html133962641735778095 0
+86C:\Users\admin\Desktop\react learning\Namaste_React\dist\Namaste_React.88009f96.js.map133962641739119164 0
+69C:\Users\admin\Desktop\react learning\dist\Namaste_React.340d6791.css133962620780182931 0
+73C:\Users\admin\Desktop\react learning\dist\Namaste_React.340d6791.css.map133962620783883012 0
+68C:\Users\admin\Desktop\react learning\dist\Namaste_React.dbc19337.js133962620780691482 0
