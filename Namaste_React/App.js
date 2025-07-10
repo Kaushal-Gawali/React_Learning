@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom/client";pm
 
 /*
 // 1)  React Element => Object
@@ -190,6 +190,18 @@ const info = {
   },
   ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
 };
+
+const Restaurant_Card = () =>{
+
+  return (
+  <div className="rescard" style={styleCard}>
+      <img className="res-logo" alt="res-logo"
+      src="https://in.pinterest.com/pin/764908317967260485/"
+      />
+<h3>  Meg  </h3>
+  </div>
+  )
+}
 
 const Body = () => {
   return (
