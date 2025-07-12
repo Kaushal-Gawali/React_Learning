@@ -29,7 +29,7 @@
     margin: 5px;
     padding: 5px;
     width: 200px;
-    height: 310px;
+    height: 350px;
 }
 
 .res-card:hover{
@@ -41,6 +41,6 @@
 }
 
 .res-logo{
-    
+    height: 130px;
     width: 100%;
 }
