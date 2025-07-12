@@ -11,3 +11,23 @@
  - ninification
  - bundling
  - compressing
+
+ # Namaste react
+
+ # Types of import/export
+ 
+ 1) Default Export/Import
+
+ export default Component;
+ import Component from "path";
+
+ 2) Named Export/Import
+
+ export const Component;
+ import {Component} from "path"; 
+
+
+ # React Hooks
+ (Normal javascript functions)
+ - useState
+ - useEffect
