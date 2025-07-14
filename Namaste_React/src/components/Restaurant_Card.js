@@ -13,7 +13,7 @@ const Restaurant_Card = (props) => {
     avgRating,
     cuisines,
     costForTwo,
-    deliveryTime
+    sla
   } = resData?.info;     // This is Optional chaining in JavaScript is a feature that simplifies accessing properties and methods of nested objects or arrays, especially when dealing with potentially null or undefined values. It uses the ?. operator. 
 
   return (
@@ -27,7 +27,7 @@ const Restaurant_Card = (props) => {
       <h4>{cuisines.join(", ")}</h4>
       <h4>{avgRating} stars</h4>
       <h4>{costForTwo}</h4>
-      <h4>{deliveryTime} minutes</h4>
+      <h4>{sla?.deliveryTime} minutes</h4>
     </div>
   );
 };

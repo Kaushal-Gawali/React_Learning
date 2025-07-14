@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
 import Body from "./components/Body";
-
+import Counter_App from "./components/Counter_App";
 /*
 // 1)  React Element => Object
 // const heading = React.createElement("h1", {id: "heading"}, "namaste react");
@@ -88,6 +88,7 @@ const AppLayout = () => {
     <div className="App">
       <Header />
       <Body />
+      <Counter_App />
     </div>
   );
 };
